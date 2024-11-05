@@ -11,3 +11,10 @@ This project analyzes customer data for a subscription service to identify valua
 ### Data Source
 
 The primary source of Data used for this project is Customer Data.csv, which is open-source data that can be freely downloaded from sites such as Kaggle, FRED, or any other data repository site.
+
+### Tools Used
+---
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data cleaning
+  2. For Analysing
+  3. Visualisation
