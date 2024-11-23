@@ -6,7 +6,7 @@ This is the second project done after completing the Data Analysis program with 
 ----
 ### Project Overview
 ----
-This project analyzes customer data for a subscription service to identify valuable segments and behavioral patterns. It examines customer interactions, tracks subscription types, and understands cancellation and renewal trends. A Power BI dashboard will display insights on customer retention and overall subscription dynamics.
+This project focuses on analyzing customer data for a subscription-based service to uncover valuable insights into customer behavior. The analysis segments customers, track subscription types, and identify key trends in cancellations and renewals. The final deliverable is an interactive Power BI dashboard that effectively presents the findings, enabling stakeholders to make informed decisions based on data-driven insights.
 
 ### Data Source
 
